@@ -7,3 +7,8 @@ Además:
 • Aprenderemos a utilizar los temporizadores y el teclado matricial.
 
 • Utilizaremos estos periféricos en combinación con los leds, 7-segmentos y pulsadores
+
+En esta primera parte completaremos un programa que ilumina los LEDs de manera alterna a intervalos regulados mediante interrupciones del temporizador 0.
+
+
+
